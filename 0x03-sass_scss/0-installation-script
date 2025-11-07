@@ -1,0 +1,26 @@
+# Installation guide for the latest version of Sass
+
+This guide will walk you through installing the latest version of Sass for your project.
+
+## Step 1: Open your terminal
+
+Open your command prompt or terminal.
+
+## Step 2: Navigate to your project folder
+
+Use the `cd` command to navigate to your project folder.
+For example:
+cd "C:\Users\HP\Desktop\ALX\Projects ALX\alx-intermediate-frontend\0x03-sass_scss"
+
+## Step 3: Install Sass
+
+Run the following command to install the latest version of Sass and add it to your project's devDependencies.
+
+npm install sass --save-dev
+
+## Step 4: Verify the installation
+
+After the installation is complete, you can check your `package.json` file. You should see `sass` listed under `devDependencies` with the installed version.
+
+You can also check the installed version by running:
+npm view sass version

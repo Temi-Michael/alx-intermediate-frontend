@@ -1,0 +1,21 @@
+{
+  "name": "sass_scss",
+  "version": "1.0.0",
+  "description": "Installing sass and using for the firt time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "styling",
+    "css",
+    "advanced styling",
+    "sass",
+    "scss"
+  ],
+  "author": "Temi Michael",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.93.3"
+  }
+}
